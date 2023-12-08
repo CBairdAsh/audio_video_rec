@@ -17,6 +17,7 @@ Notes / Result:
 - Error handling. In this day and age of hyper vigilance over security, there needs to be error handling here to account for browsers and security packages blocking the recording in some way. 
 - Enhanced user feedback. This prototype lacks any. It needs a good deal to be a proper module for public use.
 - Comment feedback tracking. Potentially feedback and comments related to the selected video could be recorded. This could be notes added by the person doing the recording... or perhaps the person who is reviewing it? Or both? Both is good.
+- Need to add a means to select video and audio source in case of multiple sources. Also an advanced mode to select Codex to fine tune recording.
 
 [3] My own personal take:
 
