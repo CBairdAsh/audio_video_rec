@@ -18,6 +18,8 @@ Notes / Result:
 - Enhanced user feedback. This prototype lacks any. It needs a good deal to be a proper module for public use.
 - Comment feedback tracking. Potentially feedback and comments related to the selected video could be recorded. This could be notes added by the person doing the recording... or perhaps the person who is reviewing it? Or both? Both is good.
 - Need to add a means to select video and audio source in case of multiple sources. Also an advanced mode to select Codex to fine tune recording.
+- UX / UI workup and design.
+- Post UX workout, incorporate Tailwind CSS to style. Current potential design theme: Material Design because of wide current use, so therefore most recognized for human to machine interactions.
 
 [3] My own personal take:
 
