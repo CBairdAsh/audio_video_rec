@@ -2,12 +2,13 @@
 
 This is a prototype for a coding challenge presented to me by PIVODIO. Time was set at 2-3 hours to see how far I would get with the following conditions:
 
-● Written in React only
-● Uses the Remix framework
+- Written in React only
+- Uses the Remix framework
 
 Style and presentation was not a requirement.
 
 Notes / Result:
+
 [1] Of the  2 - 3 hours, I lost time setting up a dev environment from scratch for this and getting familiar with Remix. It was an unknown framework for me. 
 
 [2] It does the basic single recording. Potential improvements / TODO:
